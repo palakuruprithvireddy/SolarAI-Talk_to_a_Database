@@ -5,8 +5,10 @@ An LLM-powered application that transforms Natural language questions into SQL q
 <br/>
 The solar photosphere is covered with a cell like pattern known as solar granulation. The granules have been associated with different physical phenomena taking place on the photosphere
 <br/>
-
-![granule](https://github.com/user-attachments/assets/235f297f-4473-4f61-85b7-f13b664e167e)
+<br/>
+<p align="center">
+<img src="![granule](https://github.com/user-attachments/assets/235f297f-4473-4f61-85b7-f13b664e167e)" width="300" height="200">
+</p>
 
 
 <br/>
