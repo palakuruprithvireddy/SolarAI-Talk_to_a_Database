@@ -4,7 +4,8 @@ An LLM-powered application that transforms Natural language questions into SQL q
 # What are Solar Granules?
 The solar photosphere is covered with a cell like pattern known as solar granulation. The granules have been associated with different physical phenomena taking place on the photosphere
 <br/>
-For more information regarding the spatial database development, please refer my to detailed report at  
+<br/>
+For detailed information regarding solar image processing and spatial database development, please refer the detailed [report](https://github.com/palakuruprithvireddy/SolarAI-Talk-to-a-Database/blob/main/SDB_DKIST.pdf) 
 <br/>
 <p align="center">
 <img width="693" alt="Screenshot 2025-01-20 at 8 37 36 PM" src="https://github.com/user-attachments/assets/1443accb-5a6a-41f8-92f6-7050422bda46" />
