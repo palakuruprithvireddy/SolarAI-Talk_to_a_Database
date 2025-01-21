@@ -7,7 +7,7 @@ The solar photosphere is covered with a cell like pattern known as solar granula
 <br/>
 <br/>
 <p align="center">
-<img width="893" alt="Screenshot 2025-01-20 at 8 37 36 PM" src="https://github.com/user-attachments/assets/1443accb-5a6a-41f8-92f6-7050422bda46" />
+<img width="693" alt="Screenshot 2025-01-20 at 8 37 36 PM" src="https://github.com/user-attachments/assets/1443accb-5a6a-41f8-92f6-7050422bda46" />
 </p>
 
 
