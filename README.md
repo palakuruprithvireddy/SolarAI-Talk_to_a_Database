@@ -16,7 +16,8 @@ For detailed information regarding solar image processing and spatial database d
 
 # **ARCHITECTURE**
 <br/>
-<img width="1093" alt="Screenshot 2025-01-20 at 8 37 36 PM" src="https://github.com/user-attachments/assets/a8777c20-4ae5-496c-bec4-e1596513f155" />
+<img width="1094" alt="image" src="https://github.com/user-attachments/assets/740767be-4a96-4654-b03c-fb3336a4b31a" />
+
 
 
 
