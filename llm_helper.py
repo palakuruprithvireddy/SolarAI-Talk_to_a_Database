@@ -16,7 +16,7 @@ def get_sql_chain():
     Returns:
         Callable: A function to process natural language questions into SQL queries and fetch results.
     """
-    # Load environment variables
+    # Load environment variables ( API key stores in an .env file)
     load_dotenv()
 
     # Initialize LLM with Groq
